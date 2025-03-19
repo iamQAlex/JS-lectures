@@ -48,5 +48,3 @@ let carWidth = 2000;
 let carLength = 3000;
 
 console.log('Ширина авто: '+ carWidth + ', довжина авто: ' + carLength);
-
-let 

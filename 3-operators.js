@@ -89,5 +89,3 @@ let fries_classik = 2;
 if (hamburgers >= 2 && cola || nuggets >= 2 && fries_classik >= 2){
     console.log('yami');
 };
-
-
